@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "916886885061",
+    "project_id": "mobile-dashboard-3209b",
+    "storage_bucket": "mobile-dashboard-3209b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916886885061:android:67e3bfa75c7f8cdd0a56ac",
+        "android_client_info": {
+          "package_name": "com.andreimesina.mobiledashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916886885061-k2b9nf8edpt7q34fnbjcjbi6ddkuvqo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfTQRPneWOuEOKpFglDavES3cl57GCa50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916886885061-k2b9nf8edpt7q34fnbjcjbi6ddkuvqo8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "916886885061-64vkfded38l69po3n8ubaekct8fiatev.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.andreimesina.mobiledashboard.tfmPlayground"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
